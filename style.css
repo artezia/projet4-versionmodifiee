@@ -701,9 +701,9 @@ p {
 
 .social {
     max-width: 400px;
-    margin-bottom: auto auto auto auto;
+    margin-bottom: auto;
     margin-right: 20px;
-    margin-lett: 20px;
+    margin-left: 20px;
 } 
 
 @media screen and (max-width: 768px) {
